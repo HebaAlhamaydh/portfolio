@@ -1,6 +1,6 @@
 import React from "react";
 import "./experience.css";
-import { BsPatchCheckFill} from "react-icons/bs";
+import { BsPatchCheckFill } from "react-icons/bs";
 
 function Experience() {
   return (
@@ -13,37 +13,41 @@ function Experience() {
           <h3>Frontend Development</h3>
           <div className="experience__content">
             <article className="experience__details">
-              <BsPatchCheckFill className="experience__details-icon"/>
+              <BsPatchCheckFill className="experience__details-icon" />
               <h4>HTML</h4>
             </article>
 
-            <article className="experience__details" >
+            <article className="experience__details">
               <BsPatchCheckFill className="experience__details-icon" />
               <h4>CSS</h4>
             </article>
 
             <article className="experience__details">
-              <BsPatchCheckFill className="experience__details-icon"/>
+              <BsPatchCheckFill className="experience__details-icon" />
               <h4>JavaScript</h4>
             </article>
 
             <article className="experience__details">
-              <BsPatchCheckFill className="experience__details-icon"/>
-              <h4>React</h4>
+              <BsPatchCheckFill className="experience__details-icon" />
+              <h4>ReactJs</h4>
             </article>
 
             <article className="experience__details">
-              <BsPatchCheckFill className="experience__details-icon"/>
+              <BsPatchCheckFill className="experience__details-icon" />
               <h4>Sass</h4>
             </article>
 
             <article className="experience__details">
-              <BsPatchCheckFill className="experience__details-icon"/>
+              <BsPatchCheckFill className="experience__details-icon" />
               <h4>Redux</h4>
+            </article>
+            <article className="experience__details">
+              <BsPatchCheckFill className="experience__details-icon" />
+              <h4>NextJs</h4>
             </article>
 
             <article className="experience__details">
-              <BsPatchCheckFill className="experience__details-icon"/>
+              <BsPatchCheckFill className="experience__details-icon" />
               <h4>Bootstrap</h4>
             </article>
           </div>
@@ -53,36 +57,34 @@ function Experience() {
           <h3>Backend Development</h3>
           <div className="experience__content">
             <article className="experience__details">
-              <BsPatchCheckFill className="experience__details-icon"/>
+              <BsPatchCheckFill className="experience__details-icon" />
               <h4>Node JS</h4>
             </article>
 
             <article className="experience__details">
-              <BsPatchCheckFill className="experience__details-icon"/>
+              <BsPatchCheckFill className="experience__details-icon" />
               <h4>MongoDB</h4>
             </article>
 
             <article className="experience__details">
-              <BsPatchCheckFill className="experience__details-icon"/>
+              <BsPatchCheckFill className="experience__details-icon" />
               <h4>MySQL</h4>
             </article>
 
             <article className="experience__details">
-              <BsPatchCheckFill className="experience__details-icon"/>
+              <BsPatchCheckFill className="experience__details-icon" />
               <h4>API</h4>
             </article>
 
             <article className="experience__details">
-              <BsPatchCheckFill className="experience__details-icon"/>
+              <BsPatchCheckFill className="experience__details-icon" />
               <h4>soket.io</h4>
             </article>
 
             <article className="experience__details">
-              <BsPatchCheckFill className="experience__details-icon"/>
+              <BsPatchCheckFill className="experience__details-icon" />
               <h4>ExpressJS</h4>
             </article>
-
-           
           </div>
         </div>
       </div>

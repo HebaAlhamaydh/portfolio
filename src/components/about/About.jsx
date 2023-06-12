@@ -31,10 +31,18 @@ const About = () => {
             </article>
           </div>
           <p>
-          Software developer with a positive attitude, strong work ethic, and a keen desire for learning and development. In addition, an internship with ASAC/ LUMINUS has enhanced my skill in web programming,
-           and in-depth knowledge of modern HTML/CSS and REACT. Currently, I’m seeking to work in the programming industry, in the web development department, with a company that contains my talent.
+            Software developer with a positive attitude, strong work ethic, and
+            a keen desire for learning and development. In addition, an
+            internship with ASAC/ LUMINUS has enhanced my skill in web
+            programming, and in-depth knowledge of modern HTML/CSS and
+            REACT.Also during my time at Cura كيورا, I had the privilege of
+            working as a FrontEnd NextJs Developer Currently, I’m seeking to
+            work in the programming industry, in the web development department,
+            with a company that contains my talent.
           </p>
-          <a href="#contact" className='btn btn-primary'>Let's Talk </a>
+          <a href="#contact" className="btn btn-primary">
+            Let's Talk{" "}
+          </a>
         </div>
       </div>
     </section>
